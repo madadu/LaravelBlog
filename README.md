@@ -6,11 +6,9 @@ also we've got all necessary methods in (migration,routes,blades,models,controll
 
 
 here is procedures  to run laravel blog on your system
-
-0 install composer 
-1 install laravel (composer global require laravel/installer 
-2.  go to directory (type cmd then   press enter   ---->  laravel new 
-3.  go to project folder (type cmd then press enter )
+install composer 
+install laravel (composer global require laravel/installer  go to directory (type cmd then   press enter   ---->  laravel new 
+go to project folder (type cmd then press enter )
 4. install ui package (composer require laravel/ui)
 4.1: run auth (php artisan ui --auth bootstrap)		doesn't need 
 5. replace zip folders (app,database,public,resources,routes,...)
